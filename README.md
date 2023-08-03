@@ -13,7 +13,3 @@
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://jquery.com/" target="_blank"><img src="https://brand.jquery.org/jquery-wp-content/themes/jquery/images/logo-jquery-foundation.png" alt="jquery" width="150" height="40"/></a>
 </p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielfriskey23&show_icons=true&locale=en" alt="danielfriskey23" /></p>
