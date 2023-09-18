@@ -7,5 +7,5 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="python3" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://jquery.com/" target="_blank"><img src="https://brand.jquery.org/jquery-wp-content/themes/jquery/images/logo-jquery-foundation.png" alt="jquery" width="150" height="40"/></a>
+  <a href="https://jquery.com/" target="_blank"><img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" alt="jquery" width="40" height="40"/></a>
 </p>
