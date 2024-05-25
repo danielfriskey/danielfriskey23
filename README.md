@@ -9,3 +9,5 @@
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://jquery.com/" target="_blank"><img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" alt="jquery" width="40" height="40"/></a>
 </p>
+
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfriskey)](https://github.com/danielfriskey/github-readme-stats)
